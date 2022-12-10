@@ -1,0 +1,30 @@
+Inportant syntax
+
+git --help
+
+git --version
+git config --list
+git config --list --show-origin
+
+git init create 			Repository
+git status
+
+git add (name)	 			stage files
+git commit 					commit files
+git add . (All Items)
+git commit -m (title)
+
+git log
+
+git branch
+git branch (name) 			for new
+git checkout (name) 		change branch
+git branch -d (name) 		delete branch
+git checkout -b (name)	 	for new & change branc
+
+git merge (name)			merge branches
+
+git clone						copy repository
+
+git pull
+git push
